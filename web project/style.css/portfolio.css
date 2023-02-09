@@ -1,0 +1,209 @@
+body{
+    background-color: rgb(8, 10, 8);
+    border: 30px whitesmoke;
+}
+.left{
+    width:98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    
+
+}
+h1{
+   color:rgb(185, 25, 166);
+    font-size: 60px;
+    letter-spacing: 5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 1000px;
+    height: 600px;    
+}
+.right{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    background-color: white;
+    word-spacing: 50px;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+footer{
+    color:rgb(6, 6, 6);
+    font-size: 20px;
+    position: relative;
+    top: -50px;
+    right: -1255px;
+}
+/*Laptop*/
+@media screen and (min-width:769px)and (max-width:1024px){
+    body{
+        background-color: rgb(8, 10, 8);
+        border: 30px whitesmoke;
+    }
+    .left{
+        width:98%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        
+    
+    }
+    h1{
+       color:rgb(185, 25, 166);
+        font-size: 60px;
+        letter-spacing: 5px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Unbounded', cursive;
+    }
+    img{
+        width: 1000px;
+        height: 600px;    
+    }
+    .right{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        font-size: 50px;
+        background-color: white;
+        word-spacing: 50px;
+        padding: 30px;
+    }
+    footer{
+        color:rgb(6, 6, 6);
+        font-size: 20px;
+        position: relative;
+        top: -50px;
+        right: -1255px;
+    }
+}
+/*tablet*/
+@media screen and (min-width:481px)and (max-width:768px){
+    body{
+        background-color: rgb(8, 10, 8);
+        border: 30px whitesmoke;
+    }
+    .left{
+        width:98%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        
+    
+    }
+    h1{
+       color:rgb(185, 25, 166);
+        font-size: 60px;
+        letter-spacing: 5px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Unbounded', cursive;
+    }
+    img{
+        width: 1000px;
+        height: 600px;    
+    }
+    .right{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        font-size: 50px;
+        background-color: white;
+        word-spacing: 50px;
+        padding: 30px;
+    }
+    footer{
+        color:rgb(6, 6, 6);
+        font-size: 20px;
+        position: relative;
+        top: -50px;
+        right: -1255px;
+    }
+}
+/*mobile*/
+@media only screen and (min-width:320px)and (max-width:480px){
+    body{
+        background-color: rgb(8, 10, 8);
+        border: 30px whitesmoke;
+    }
+    .left{
+        width:98%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        
+    
+    }
+    h1{
+       color:rgb(185, 25, 166);
+        font-size: 60px;
+        letter-spacing: 5px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Unbounded', cursive;
+    }
+    img{
+        width: 1000px;
+        height: 600px;    
+    }
+    .right{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        font-size: 50px;
+        background-color: white;
+        word-spacing: 50px;
+        padding: 30px;
+    }
+    footer{
+        color:rgb(6, 6, 6);
+        font-size: 20px;
+        position: relative;
+        top: -50px;
+        right: -1255px;
+    }
+}
