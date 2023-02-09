@@ -231,7 +231,7 @@ p{
     }
     h1{
         color: black;
-        font-size: 60px;
+        font-size: 48px;
         align-items: center;
         flex-direction: top;
         text-align: center;
@@ -283,7 +283,7 @@ p{
         align-items: center;
         flex-direction: column;
         text-align: center;
-        font-size: 50px;
+        font-size: 31px;
         background-color: aliceblue;
         padding: 30px;
         word-spacing: 50px;
