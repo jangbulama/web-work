@@ -24,6 +24,10 @@ h1{
     align-items: center;
     text-align: center;
 }
+.right a{
+    color:black;
+    text-decoration: none;
+}
   
 img{
     width: 300px;
